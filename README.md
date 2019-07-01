@@ -10,6 +10,9 @@
 - Used program: Solidworks 2017
 - Main assembly file: WholeRobot_SIMPLE_TOTAL.SLDASM
 
+# License
+- GNU3
+
 # Owner
 - HRVL(Human-centered Robotics and Vision Lab) @ Daejeon University
 - Prof. Jeong-Ki Yoo
