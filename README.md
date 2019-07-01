@@ -11,7 +11,7 @@
 - Main assembly file: WholeRobot_SIMPLE_TOTAL.SLDASM
 
 # License
-- GNU3
+- GNUv3
 
 # Owner
 - HRVL(Human-centered Robotics and Vision Lab) @ Daejeon University
