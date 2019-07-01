@@ -1,6 +1,7 @@
 # HRVLGbot_CadFiles
-- Robot명: HRVL-Gbot (gazebot)
-- Navigation/Gaze Control연구를 위한 다기능 휴머노이드 로봇 플랫폼
+- Robot Name: HRVL-Gbot (gazebot)
+- Multi-purpose Robot Platform for Navigation/Gaze Control researches 
+  (항법/시선제어 연구를 위한 다기능 휴머노이드 로봇 플랫폼)
 - 7 DOF ARM + 3 DOF waist(roll/pitch+Lift) + Mecanum Platform
 - Kinect2 + ZED + Lidar mounted Pan-Tilt Robot Head
 ![hrvl_gbot_picture](https://user-images.githubusercontent.com/29231446/59944034-bdb4d800-949e-11e9-9137-ae9d8b1f9bb7.png)
