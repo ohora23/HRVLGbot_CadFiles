@@ -17,5 +17,6 @@
 - HRVL(Human-centered Robotics and Vision Lab) @ Daejeon University
 - Prof. Jeong-Ki Yoo
 
-# Acknoledgement
-- 본 repository는 연구재단 신진연구자지원사업의 결과물 중 일부입니다.(과제번호: 2016R1C1B2012348)
+# Acknowledgement
+This work was supported by the National Research Foundation of Korea(NRF) grant funded by the Korea government(MSIT) (No. 2016R1C1B2012348).
+
